@@ -2,11 +2,10 @@
 > Undergraduate Student, Department of Mechanical, Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1200&center=true&vCenter=true&width=900&lines=Undergraduate Student+Teacher+%E2%80%A2+%E2%80%A2+Mechanical+Engineer;Focus+on+~+CFD+%E2%80%A2+Automation+%E2%80%A2+Robotics+%E2%80%A2+Aerodynamics;Open+to+Research+Collaborations"
-    alt="Typing animation highlighting research areas"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1200&center=true&vCenter=true&width=900&lines=Undergraduate+Student+%E2%80%A2+Teacher+%E2%80%A2+Mechanical+Engineer;Focus+on+CFD+%E2%80%A2+Automation+%E2%80%A2+Robotics+%E2%80%A2+Aerodynamics;Open+to+Research+Collaborations" 
+       alt="Typing animation highlighting research areas" />
 </p>
+
 
  
 
