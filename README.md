@@ -23,7 +23,7 @@ I am a final-year Mechanical Engineering student with a strong interest in **Flu
 
 ## Skills and Tools  
 - **Engineering Fundamentals**: Fluid Mechanics · Control Engineering · Energy Systems · Materials and Metallurgy  
-- **Simulation and Modeling**: ANSYS Fluent · Structural Analysis · CAD (SolidWorks)  
+- **Simulation and Modeling**: ANSYS Fluent · Structural Analysis · CAD (SolidWorks, Fusion 360)  
 - **Programming and Data Analysis**: Python · MATLAB · C · ROS2 (Beginner) · Jupyter  
 - **Research and Writing**: LaTeX · Academic Publishing · Technical Reports  
 - **Additional Tools**: Git · Arduino · Raspberry Pi  
