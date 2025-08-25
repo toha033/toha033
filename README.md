@@ -1,4 +1,4 @@
-# 👋 Hi, I am Md. Rezwanus Samam TOha  
+# 👋 Hi, I am Md. Rezwanus Samam Toha  
 > Undergraduate Student, Department of Mechanical, Rajshahi University of Engineering and Technology, Rajshahi, Bangladesh
 
 <p align="center">
